@@ -4,5 +4,5 @@
 
 ### Before the lesson
 
-1. All participants should have a Github account. You can create an account using this (Link********)
-2. This tutorial will make use of [git]
+1. All participants should have a Github account. You can create an account using this [link](https://github.com/). **Please register with your university e-mail**
+2. This tutorial will make use of [git](https://git-scm.com/) and [GitKraken](https://www.gitkraken.com/)). Please install these two pieces of software.
